@@ -18,9 +18,9 @@
 - [살면서 가장 기억에 남는 날 1/3 (중급1)](https://forms.gle/RaUJJkPzFbcw1tWu7)
 - [살면서 가장 기억에 남는 날 2/3 (중급1)](https://forms.gle/CosUcjnJakZQrMAP6)
 - [살면서 가장 기억에 남는 날 3/3 (중급1)](https://forms.gle/oCCZx4wk6ctRceXcA)
-- []()
-- []()
-- []()
+- [나의 취미 1/3 (중급1)](https://forms.gle/W9xnE5MxVJYjd6p89)
+- [나의 취미 2/3 (중급1)](https://forms.gle/awwAh5HVzdjmrghh6)
+- [나의 취미 3/3 (중급1)](https://forms.gle/tWBD8aiUo81dCMEi6)
 
 
 ## 중급2
