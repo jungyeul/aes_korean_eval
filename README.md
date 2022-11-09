@@ -1,5 +1,10 @@
 # Korean aes evaluation dataset
 
+
+[[루브릭설명](https://drive.google.com/file/d/1V6a6hc0QBBpOWu6FGdpXjjUtHemSMiKd/view?usp=share_link)]
+-----
+
+
 ## 초급1
 - [주말 이야기 1/3 (초급1)](https://forms.gle/wsehPkugx2XVPyFx5)
 - [주말 이야기 2/3 (초급1)](https://forms.gle/bs2VLahZWYfA3Dse6)
